@@ -1,8 +1,8 @@
 # Sorting Algorithms Visualizer
 
 A simple visualizer of sorting algorithms using Java, with a very minimalistic Swing UI.
-I implemented MVC architecture for the first time, i'm not really sure if i got it right.
-
+I implemented MVC architecture for the first time, i'm not really sure if i got it right 😅😅 .
+-----
 # Algorithms Implemented:
   - Bubble sort
   - Selection sort
@@ -11,6 +11,8 @@ I implemented MVC architecture for the first time, i'm not really sure if i got 
   - Merge sort
   - Heap sort
 
-Many more algorithms will be implemented in the future, hope so.
-
-# Any suggestions, improvements or criticism will be helpful for me, Thank you.
+Many more algorithms will be implemented in the future, hope so .
+----
+##Issues
+Testing is much appreciated. Please post any issue you find in the Issue tracker.
+Any suggestions, improvements or criticism will be helpful for me, Thank you 🙏.
